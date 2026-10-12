@@ -1,0 +1,13 @@
+Feature,Importance
+num__transaction_hour,0.26175465847443824
+num__device_trust_score,0.250904842426399
+num__velocity_last_24h,0.13624444113909653
+num__foreign_transaction,0.12908585761694907
+num__location_mismatch,0.1088876120348052
+num__amount,0.05360675115409284
+num__cardholder_age,0.03252884482499715
+cat__merchant_category_Travel,0.00707688844610316
+cat__merchant_category_Grocery,0.005687087887182668
+cat__merchant_category_Electronics,0.005657768357327868
+cat__merchant_category_Clothing,0.004945052324021345
+cat__merchant_category_Food,0.003620195314586985
